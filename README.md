@@ -188,4 +188,4 @@ This repository serves as the official landing page for Headquarters: World War 
 **Get the most recent version of Headquarters: World War II - Ardennes today!**
 
 ---
-**Last updated:** 2026-11-12 05:50:48 UTC
+**Last updated:** 2026-11-12 14:40:27 UTC
